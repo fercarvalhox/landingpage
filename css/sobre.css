@@ -4,15 +4,15 @@ font-size: 18px;
     font-weight: 400px;  }
 .conteudo-principal-sobre{
     margin-top: 40px;
-    margin-left: 40px;
-    margin-right: 250px;
+    margin-left: 20px;
+    margin-right: 0px;
+
 }
 
 .minha-img{
-    height: 400px;
-    left: 400x;
+    height: 500px;
     border-radius: 10%;
-    margin-right: 200px;
+    margin: 30px;
 }
 .sobre-texto{
     font-family: 'Sarala', sans-serif;
