@@ -44,3 +44,9 @@ margin-left: 20px;
 border-radius: 5px;
 margin-bottom: 30px;
 }
+.minha-img{
+    border-bottom: 8px solid rgb(6, 149, 231);
+    border-top: 8px solid rgb(250, 102, 146);
+    border-right: 8px solid rgb(245, 245, 69);
+    border-left: 8px solid rgb(245, 245, 69); ;
+}
