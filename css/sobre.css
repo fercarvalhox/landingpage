@@ -1,10 +1,10 @@
 .conteudo-principal-sobre{
     font-family: 'Sarala', sans-serif;
 font-size: 18px;
-    font-weight: 400;   
-}
+    font-weight: 400px;  }
 .conteudo-principal-sobre{
-    margin-left: 20px;
+    margin-top: 40px;
+    margin-left: 40px;
     margin-right: 250px;
 }
 
@@ -12,4 +12,34 @@ font-size: 18px;
     height: 400px;
     left: 400x;
     border-radius: 10%;
+    margin-right: 200px;
+}
+.sobre-texto{
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-weight: 400;    
+margin-top: 20px;
+margin-left: 20px;
+border-radius: 5px;
+}
+#conteudo-principal-titulo{
+    font-size: 40px;
+    font-weight: 400; 
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.conteudo-principal-subtitulo{
+    font-weight: 400; 
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.sobre-texto-3{
+    font-family: 'Sarala', sans-serif;
+    font-size: 18px;
+    font-weight: 400;    
+margin-top: 20px;
+margin-left: 20px;
+border-radius: 5px;
 }
